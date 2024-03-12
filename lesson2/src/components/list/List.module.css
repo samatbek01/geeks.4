@@ -1,0 +1,12 @@
+.list{
+    margin-top: 20px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    border: 3px blue solid;
+    color:green ;
+}
+.num {
+    font-size: 20px;
+    color: red;
+}

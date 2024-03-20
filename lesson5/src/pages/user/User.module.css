@@ -1,0 +1,16 @@
+.users {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.user {
+    width: 300px;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.age {
+    color: green;
+}
